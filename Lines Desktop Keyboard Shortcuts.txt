@@ -1,0 +1,28 @@
+Lines Desktop
+
+#Skróty klawiaturowe:
+
+#Ukryj/Pokaż Linie (alt+shift+home) 
+#Zmień Pozycje Linijki (alt+shift+pageup) 
+#Wyczyść Wszystko (ctrl+alt+f9) 
+#Wyjście (ctrl+alt+end)
+#Grubość linii zwiększ (ctrl+alt+pageup)
+#Grubość linii zmniejsz (ctrl+alt+pagedown)
+
+#Usuwanie linii-najedź myszką na linię (pojawi się podwójna żółta strzałka) i 2x kliknij
+#Przesuwanie linii-najedź myszką na linię (pojawi się podwójna żółta strzałka) i trzymając wciśnięty lewy klawisz myszki przesuń linię (będzie też widać pozycję linii w px na ekranie)
+UWAGA: trafienie w linię, żeby pokazała się podwójna żółta strzałka wymaga trochę wprawy, nie za każdym razem to od razu działa
+
+***
+#Keyboard Shortcuts:
+
+#Hide/Show Lines (alt+shift+home) 
+#Change Line Positions (alt+shift+pageup) 
+#Clear All (ctrl+alt+f9) 
+#Exit (ctrl+alt+end)
+#Bolder Line Increase (ctrl+alt+pageup)
+#Bolder Line Decrease (ctrl+alt+pagedown)
+
+#Move line-Drive the mouse on the line (double yellow arrow will appear) and 2x click
+#Move line-Drive the mouse on the line (double yellow arrow will appear) and while holding the left mouse button, move the line (you will also see the position of the line in px on the screen)
+NOTE: hitting the line to make the double yellow arrow show takes some practice, it doesn't work every time right away
