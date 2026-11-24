@@ -143,14 +143,6 @@ No separate Select mode (`G`) — it was removed. Select directly:
 - **RDP:** polling every ~16 ms, no `grabMouse()`, so dragging works through Chrome Remote Desktop.
 - **Snap to lines in PowerPoint:** not implemented in v0.3 (left for later).
 
-## Files
-
-| File | What it is |
-|---|---|
-| `Lines_Desktop_v0.3_EN.py` | English version, editable shortcuts, v0.3 |
-| `Lines_Desktop_v0.3.py` | Polish version, same features |
-| `README.md` | This file |
-
 ## Version
 
 **v0.3** — shown in the tray menu, Settings window, and title bar.
@@ -310,14 +302,6 @@ Nie ma osobnego trybu Wybór (`G`) — został usunięty. Wybieraj bezpośrednio
 - **RDP:** polling co ~16 ms, brak `grabMouse()`, więc przeciąganie działa przez Chrome Remote Desktop.
 - **Snap do linii w PowerPoint:** nie ma w v0.3 (do zrobienia później).
 
-## Pliki
-
-| Plik | Co to jest |
-|---|---|
-| `Lines_Desktop_v0.3.py` | Wersja polska, edytowalne skróty, v0.3 |
-| `Lines_Desktop_v0.3_EN.py` | Wersja angielska, ten sam program |
-| `README_PL.md` | Ten plik |
-| `README.md` | README po angielsku |
 
 ## Wersja
 
